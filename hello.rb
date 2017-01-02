@@ -1,1 +1,1 @@
-puts :hello
+new content
