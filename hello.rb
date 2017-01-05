@@ -1,3 +1,3 @@
 3.times do 
-  puts "Hello Tim"
+  puts "Hello "
 end
