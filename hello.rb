@@ -1,3 +1,3 @@
 3.times do 
-  puts "Hello fuzzy dog"
+  puts "Hello "
 end
